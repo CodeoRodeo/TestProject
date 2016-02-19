@@ -1,0 +1,26 @@
+h1 {
+  background-color: #333333;
+  color: white;
+  text-align:center;
+}
+h2 {
+  color:white;
+}
+p {
+  background-color: gray;
+  color: black;
+  line-height: 17px;
+}
+a{
+  color:white;
+  text-decoration:line-through;
+}
+h3{
+  text-transform: uppercase;
+}
+#jibberish {
+  width: 1500px;
+  height: 500px;
+  border: 7px solid white;
+  text-align: justify;
+}
